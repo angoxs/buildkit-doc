@@ -1,6 +1,6 @@
 module.exports = {
-  title: "BuildKit",
-  tagline: "The ultimate React & Next component library_",
+  title: "Congratulations",
+  tagline: "Thank you for purchasing BuildKit",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
