@@ -24,6 +24,10 @@
   justify-content: center;
 }
 
+.button button--outline {
+  background: white;
+}
+
 .features {
   display: flex;
   align-items: center;
